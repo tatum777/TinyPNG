@@ -1,0 +1,24 @@
+{
+  "name": "littledemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatum777/littledemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatum777/littledemo/issues"
+  },
+  "homepage": "https://github.com/tatum777/littledemo#readme",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "glob": "^7.1.6",
+    "tinify": "^1.6.0-beta.2"
+  }
+}
